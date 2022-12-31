@@ -1,0 +1,108 @@
+.btnBack{
+	border-color: #ff0052;
+	font-size: 25px;
+	width:10%;
+	color: #ff0052;
+	box-shadow: 16px 14px 20px #0000008c;
+	 background: #1C1E1E ;
+}
+
+
+.btnSubmit{
+	border-color: #ff0052 ;
+	margin-left: 85%;
+	font-size: 25px;
+	color: #ff0052;
+	box-shadow: 16px 14px 20px #0000008c;
+	 background: #1C1E1E ;
+
+}
+
+
+.createTitle{
+	font-size: 40px;
+	margin-left: 35%;
+	color: #ff0052;
+	box-shadow: 16px 14px 20px #0000008c;
+	display: inline-flex;
+}
+
+
+
+
+
+.formName{
+	font-size: 30px;
+	color: #ff0052;
+	margin: 12px;
+	box-shadow: 16px 14px 20px #0000008c;
+}
+
+.formImg{
+	font-size: 30px;
+	color: #ff0052;
+	margin: 12px;
+	box-shadow: 16px 14px 20px #0000008c;
+}
+
+.formDsp{
+	font-size: 30px;
+	color: #ff0052;
+	margin: 12px;
+	box-shadow: 16px 14px 20px #0000008c;
+}
+
+.formRld{
+	font-size: 30px;
+	color: #ff0052;
+	margin: 12px;
+	box-shadow: 16px 14px 20px #0000008c;
+}
+
+.formRtg{
+	font-size: 30px;
+	color: #ff0052;
+	margin: 12px;
+	box-shadow: 16px 14px 20px #0000008c;
+}
+
+
+.formPlt{
+		font-size: 30px;
+	color: #ff0052;
+	margin: 12px;
+	box-shadow: 16px 14px 20px #0000008c;
+}
+
+.formGnr{
+	font-size: 30px;
+	color: #ff0052;
+	margin: 12px;
+	box-shadow: 16px 14px 20px #0000008c;
+}
+
+p {
+	font-size: 15px;
+	color: #ff0052;
+	box-shadow: 16px 14px 20px #0000008c;
+}
+
+.deletePlt{
+	display: inline-block;
+		font-size: 15px;
+	color: #ff0052;
+	box-shadow: 16px 14px 20px #0000008c;
+}
+.labelPlt{
+	margin: 10px;
+	box-shadow: 16px 14px 20px #0000008c;
+}
+
+.btnDelete{
+	border-radius: 2px;
+	background: #1C1E1E;
+	border-color:  #ff0052;
+	color: #ff0052;
+	box-shadow: 16px 14px 20px #0000008c;
+	border:solid 3px;
+}

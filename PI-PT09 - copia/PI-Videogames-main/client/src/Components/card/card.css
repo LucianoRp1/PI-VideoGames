@@ -1,0 +1,28 @@
+.containerCard1{
+	margin: 10px;
+	text-align: center;
+	border-color: black;
+	box-shadow: 16px 14px 20px #0000008c;
+	}
+
+
+
+.imgCss{
+	width: 270px;
+	height: 260px;
+	box-shadow: 16px 14px 20px #0000008c;
+
+}
+
+
+.nameCard{
+	color: #ff0052;
+	box-shadow: 16px 14px 20px #0000008c;
+}
+
+.genreCard{
+	text-decoration: none;
+	color: #ff0052;
+	box-shadow: 16px 14px 20px #0000008c;
+
+}

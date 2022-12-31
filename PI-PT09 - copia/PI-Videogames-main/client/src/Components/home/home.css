@@ -1,0 +1,176 @@
+body {
+/*        min-height: 100vh;*/
+      /*  display: flex;
+        justify-content: center;
+        align-items: center;*/
+        background: #181818;
+    }
+
+
+.titleStyle{
+	font-size: 45px;
+        height: 200px;
+        box-shadow: 16px 14px 20px #0000008c;
+        border-radius: 10px;
+        position: relative;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        
+}
+
+
+
+.titleStyle::after{
+	    content: "Sigma Games ";
+        width: 90%;
+        height: 190px;
+        background: #101010;
+        position: absolute;
+        border-radius: 10px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: #ff0052 ;
+        font-size: larger;
+        letter-spacing: 5px;
+        box-shadow: inset 20px 20px 20px #0000008c;
+}
+
+
+
+
+.btnReload{
+
+	font-size: 20px;
+	box-shadow: 16px 14px 20px #0000008c;
+    border-color:  #ff0052;
+	color: #ff0052;
+	background:  #1C1E1E;
+	border-radius: 4px;
+
+
+}
+
+.createBtn{
+    margin-left: 40%;
+	font-size: 32px;
+	text-decoration: none;
+    color: #ff0052;
+    position: absolute;
+    box-shadow: 16px 14px 20px #0000008c;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0) , 0 0 10px rgba(0, 0, 0) , 0 0 10px rgba(0, 0, 0) , 0 0 20px #1C1E1E , 0 0 20px #1C1E1E , 0 0 30px #1C1E1E , 0 0 70px #1C1E1E ;
+
+}
+
+.containerCard{
+	margin: 10px;
+	display: grid;
+place-content: center;
+grid-template-columns: repeat(auto-fill,540px);
+	margin-top: 15vh;
+}
+
+.linkCard{
+    text-decoration: none;
+}
+
+
+.searchBar{
+    display: grid;
+    margin-left: 70%; 
+	margin-top: -3vh;
+	}
+
+
+
+
+.optionsStyle{
+    margin-top: 5%;
+margin-left: 30%;
+box-shadow: 16px 14px 20px #0000008c;
+ position: relative;
+ display: inline-flex;  
+
+}
+.optionsStyle:hover{
+    border-color: #ff0052;
+}
+
+.containerCreate{
+    display: flex;
+    
+}	
+
+.pagination{
+    display: inline-flex;
+     box-shadow: 16px 14px 20px #0000008c;
+    margin-top: 8%;
+    margin-left: 35%;
+}
+
+
+
+
+.selectGame {
+	border-color: #1C1E1E ;
+	color: #ff0052;
+   position: relative;
+   width: 10em;
+   height: 3em;
+   background: #1C1E1E ;
+   cursor: pointer;
+   border-radius: .25em;
+   box-shadow: 16px 14px 20px #0000008c;
+
+}
+
+
+
+
+.selectGame2 {
+/*	margin-left: 20vh;*/
+	color: #ff0052;
+   position: relative;
+   width: 12em;
+   height: 3em;
+   background:#1C1E1E   ;
+   cursor: pointer;
+   border-radius: .25em;
+    box-shadow: 16px 14px 20px #0000008c;
+    border-color: #1C1E1E ;
+
+}
+
+
+.selectGame3 {
+/*	margin-left: 30vh;*/
+   border-color: #1C1E1E ;
+	color: #ff0052;
+   position: relative;
+   width: 10em;
+   height: 3em;
+   background: #1C1E1E ;
+   cursor: pointer;
+   border-radius: .25em;
+    box-shadow: 16px 14px 20px #0000008c;
+
+}
+.selectGame4 {
+/*	margin: 0;
+	margin-left: 30vh;*/
+   border-color: #1C1E1E ;
+	color: #ff0052;
+position: relative;
+   width: 10em;
+   height: 3em;
+   background: #1C1E1E ;
+   cursor: pointer;
+   border-radius: .25em;
+    box-shadow: 16px 14px 20px #0000008c;
+
+}
+
+
+
+

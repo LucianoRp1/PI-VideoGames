@@ -1,0 +1,16 @@
+.btnSearch{
+	font-size: 20px;
+	color: #ff0052;
+	cursor: pointer;
+	border-color: #ff0052;
+	background: #1C1E1E ;
+	box-shadow: 16px 14px 20px #0000008c;
+}
+
+
+.searchInput{
+	font-size: 20px;
+	color: #ff0052;
+	background: #1C1E1E ;
+	border-color:  #ff0052;
+}
